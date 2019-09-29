@@ -49,7 +49,7 @@
     </contributor>
   </contributors>
   <properties>
-    <jettyVersion>9.2.5.v20141112</jettyVersion>
+    <jettyVersion>9.4.20.v20190813</jettyVersion>
   </properties>
   <dependencies>
     <dependency>
